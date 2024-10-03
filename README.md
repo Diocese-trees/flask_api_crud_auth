@@ -10,7 +10,7 @@
 ## Dependencies
 This project requires the following Python libraries and frameworks:
 
-- Flask: A lightweight web framework used to create web applications.
+- **Flask:** A lightweight web framework used to create web applications.
   ```bash
   pip install Flask
 Flask-RESTful: An extension for Flask that adds support for quickly building REST APIs.
